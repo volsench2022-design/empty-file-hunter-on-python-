@@ -1,5 +1,8 @@
 # Empty File Hunter
 
+<img width="952" height="663" alt="Screenshot 2026-03-11 173553" src="https://github.com/user-attachments/assets/78d438e2-c897-41f0-b33b-5976760be7d8" />
+
+
 **Empty File Hunter** is a simple desktop application built with **Python** and **CustomTkinter** that scans directories and finds empty folders. It allows users to quickly locate unused directories and optionally remove them to keep their file system clean.
 
 ## Features
